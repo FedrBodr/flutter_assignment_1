@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'MyText.dart';
-import 'TextControl.dart';
+import 'my_text.dart';
+import 'text_control.dart';
 
 class App extends StatefulWidget {
   @override
